@@ -11,9 +11,12 @@ please no steal my website :C
 <html>
 <body>
 <h1>Cute Images!</h1>
+  <p>Page buttons</p>
   <a href="https://www.google.com" class="my-button">go back to main page</a> <!-- button that sends you to a different link! -->
 
-  <img src="https://raw.githubusercontent.com/CalebStafford/wholesomewebsiteassets_iqdoiasjndoanwds/refs/heads/main/puppy%20in%20grass.avif" width="100" height="100" alt="Example Image">
+<h2>Cute Puppies!</h2>
+
+<img src="https://raw.githubusercontent.com/CalebStafford/wholesomewebsiteassets_iqdoiasjndoanwds/refs/heads/main/puppy%20in%20grass.avif" width="500" height="500" alt="Example Image">
 
 </body>
 </html>
